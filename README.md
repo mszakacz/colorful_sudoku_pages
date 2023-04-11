@@ -1,6 +1,33 @@
+App Privacy Policy Generator
+Generate a generic Privacy Policy and Terms & Conditions for your apps
+Built with heart by Nishant and contributors.
+
+TwitterDisclaimerGitHub stars
+
+
+While App Privacy Policy Generator is completely FREE, it takes money to keep it running and updated.
+If you are able to, then consider contributing by:
+
+Sponsoring me on Github 👨🏻‍💻
+Buying me a cup of ☕
+If you are unable to contribute with funds, consider sharing it with your friends: Twitter, Linkedin, Facebook, Reddit
+
+...or adding a review/comment in the project's GuestBook 🤗
+
+All Done!
+Now sit back and choose the type of document you want to generate:
+
+
+
+
+The accuracy of the generated privacy policy and terms & conditions on this website is not legally binding. Use at your own risk.
+
+Read the full Disclaimer here
+
+
 **Privacy Policy**
 
-Developma Maciej Szakacz Mobile Development built the Colorful Sudoku app as a Free app. This SERVICE is provided by Developma Maciej Szakacz Mobile Development at no cost and is intended for use as is.
+Developma Maciej Szakacz Mobile Development built the Colorful Sudoku app as an Ad Supported app. This SERVICE is provided by Developma Maciej Szakacz Mobile Development at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -10,7 +37,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to App does not collect any personal information. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Shared: Approximate location, Crash logs, Diagnostics, App interactions, Device or other IDs. The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third-party services that may collect information used to identify you.
 
@@ -56,7 +83,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-03-23
+This policy is effective as of 2023-04-11
 
 **Contact Us**
 
